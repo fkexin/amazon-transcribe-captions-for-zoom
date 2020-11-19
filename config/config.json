@@ -1,0 +1,4 @@
+{
+    "api_gateway_endpoint": "https://jlibei28d1.execute-api.ca-central-1.amazonaws.com/v1",
+    "http_cors_proxy_api": "https://32125cb2il.execute-api.ca-central-1.amazonaws.com"
+}
